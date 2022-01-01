@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Matthew Leong",
 	"description": "Learning JS backend dev",
+	"keywords": ["freecodecamp", "javascript", "backend", "node"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
